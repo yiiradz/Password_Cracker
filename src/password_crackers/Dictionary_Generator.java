@@ -24,7 +24,7 @@ public class Dictionary_Generator {
             br = new BufferedReader(new InputStreamReader(dis));
             String line = null;
             while ((line = br.readLine()) != null) {
-                StringTokenizer st = new StringTokenizer(line, " ,.;:\"");
+                StringTokenizer st = new StringTokenizer(line, " ,.;:[]?!'1234567890\"");
                 while (st.hasMoreTokens()) {
                     String tmp = st.nextToken().toLowerCase();
                     if (!wordList.contains(tmp)) {
@@ -89,6 +89,10 @@ public class Dictionary_Generator {
             }
         }
          */
+    }
+
+    public void capitalizeEachLetter(String fileName){
+
     }
 
     public static void main(String a[]) throws IOException {

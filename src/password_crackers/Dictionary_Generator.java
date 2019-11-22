@@ -94,7 +94,7 @@ public class Dictionary_Generator {
 
             //StringBuffer sb = new StringBuffer(input);
             String temp = "";
-            if(input.contains(sp34kT0L33t[i])) {
+            if(input.contains(sp34kT0L33t[i])) { // TODO: add secondary cases for s(5) and g (6)
                 switch (sp34kT0L33t[i]){
                     case "e":
                         temp = inputMutation.replace('e', '3');
@@ -141,10 +141,18 @@ public class Dictionary_Generator {
     public static void capitalizeEachLetter(String input){
 
         // TODO: Think of a strategic way to capitalize letters
+        // every letter individually
 
     }
-    
+
     public static void addDates(String input){
+
+        //use day/month/year
+        // two numbers two numbers two numbers
+        //days up to 31, months up to 12
+        //years start at 50 to 20 (50 - 00,00 - 20)
+        //concatnate
+
 
     }
 

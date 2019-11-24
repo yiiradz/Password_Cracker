@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14a32403-88c5-4c60-b43b-bac06f423c76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashingAndComparing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HashingAndComparing/MD5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HashingAndComparing/password_crackers/BibleWords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HashingAndComparing/password_crackers/Dictionary_Generator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HashingAndComparing/password_crackers/MD5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HashingAndComparing/password_crackers/PA4_Word_List.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HashingAndComparing/password_crackers/pwd_Cracker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HashingAndComparing/password_crackers/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/password_crackers/BibleWords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/password_crackers/Dictionary_Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/password_crackers/MD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/password_crackers/PA4_Word_List.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/password_crackers/pwd_Cracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/password_crackers/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/password_crackers/uniqueBibleWordList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13PWs.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AsOf3pm11-22.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AsOf5,30Saturday.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Eleven.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 2/HashingAndComparing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 2/src/MD5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/HashingAndComparing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/src/MD5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/src/password_crackers/Dictionary_Generator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/src/password_crackers/MD5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/src/password_crackers/PA4_Word_List.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/src/password_crackers/maybe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/src/password_crackers/maybe2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/src/password_crackers/pwd_Cracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/src/password_crackers/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing/HashingAndComparing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing/src/MD5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing11-19.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NinePasswords.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/PA4/password_crackers/Dictionary_Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/PA4/password_crackers/Dictionary_Generator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/PA4/password_crackers/pwd_Cracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/password_crackers/Dictionary_Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/password_crackers/Dictionary_Generator.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TXDkXY9YMGllR3cY9PdhI9PIqB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Dictionary_Generator (1)">
+    <configuration name="Dictionary_Generator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="password_crackers.Dictionary_Generator" />
+      <module name="HashingAndComparing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="password_crackers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dictionary_Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dictionary_Generator" />
+      <module name="HashingAndComparing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hashing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hashing" />
+      <module name="HashingAndComparing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MD5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="password_crackers.MD5" />
+      <module name="HashingAndComparing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="password_crackers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MD5" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MD5" />
+      <module name="HashingAndComparing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dictionary_Generator (1)" />
+        <item itemvalue="Application.MD5 (1)" />
+        <item itemvalue="Application.Dictionary_Generator" />
+        <item itemvalue="Application.Hashing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14a32403-88c5-4c60-b43b-bac06f423c76" name="Default Changelist" comment="" />
+      <created>1573597689764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573597689764</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

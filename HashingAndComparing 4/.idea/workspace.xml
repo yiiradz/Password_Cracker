@@ -2,26 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14a32403-88c5-4c60-b43b-bac06f423c76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashingAndComparing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HashingAndComparing/MD5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HashingAndComparing/password_crackers/BibleWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HashingAndComparing/password_crackers/Dictionary_Generator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HashingAndComparing/password_crackers/MD5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HashingAndComparing/password_crackers/PA4_Word_List.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HashingAndComparing/password_crackers/pwd_Cracker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HashingAndComparing/password_crackers/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MD5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/password_crackers/BibleWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/password_crackers/Dictionary_Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/password_crackers/MD5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/password_crackers/PA4_Word_List.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/password_crackers/pwd_Cracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/password_crackers/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/password_crackers/uniqueBibleWordList.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../13PWs.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AsOf3pm11-22.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AsOf5,30Saturday.zip" beforeDir="false" />
@@ -43,12 +23,10 @@
       <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/src/password_crackers/maybe2.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/src/password_crackers/pwd_Cracker.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HashingAndComparing 3/src/password_crackers/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HashingAndComparing.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HashingAndComparing/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HashingAndComparing/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HashingAndComparing/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HashingAndComparing/HashingAndComparing.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HashingAndComparing/src/MD5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HashingAndComparing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashingAndComparing/src/MD5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HashingAndComparing/src/MD5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HashingAndComparing11-19.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../NinePasswords.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/PA4/password_crackers/Dictionary_Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/PA4/password_crackers/Dictionary_Generator.class" afterDir="false" />
